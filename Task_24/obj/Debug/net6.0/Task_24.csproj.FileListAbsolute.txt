@@ -1,0 +1,15 @@
+/home/ivan/seminar 30.09.23/Task_24/obj/Debug/net6.0/Task_24.csproj.AssemblyReference.cache
+/home/ivan/seminar 30.09.23/Task_24/obj/Debug/net6.0/Task_24.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivan/seminar 30.09.23/Task_24/obj/Debug/net6.0/Task_24.AssemblyInfoInputs.cache
+/home/ivan/seminar 30.09.23/Task_24/obj/Debug/net6.0/Task_24.AssemblyInfo.cs
+/home/ivan/seminar 30.09.23/Task_24/obj/Debug/net6.0/Task_24.csproj.CoreCompileInputs.cache
+/home/ivan/seminar 30.09.23/Task_24/bin/Debug/net6.0/Task_24
+/home/ivan/seminar 30.09.23/Task_24/bin/Debug/net6.0/Task_24.deps.json
+/home/ivan/seminar 30.09.23/Task_24/bin/Debug/net6.0/Task_24.runtimeconfig.json
+/home/ivan/seminar 30.09.23/Task_24/bin/Debug/net6.0/Task_24.dll
+/home/ivan/seminar 30.09.23/Task_24/bin/Debug/net6.0/ref/Task_24.dll
+/home/ivan/seminar 30.09.23/Task_24/bin/Debug/net6.0/Task_24.pdb
+/home/ivan/seminar 30.09.23/Task_24/obj/Debug/net6.0/Task_24.dll
+/home/ivan/seminar 30.09.23/Task_24/obj/Debug/net6.0/ref/Task_24.dll
+/home/ivan/seminar 30.09.23/Task_24/obj/Debug/net6.0/Task_24.pdb
+/home/ivan/seminar 30.09.23/Task_24/obj/Debug/net6.0/Task_24.genruntimeconfig.cache
